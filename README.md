@@ -1,1 +1,1 @@
-### Stack: Python, aiogram
+### Stack: Python, aiogram, SQLite
